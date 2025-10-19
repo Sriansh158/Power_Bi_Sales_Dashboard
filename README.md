@@ -1,1 +1,3 @@
-# Power_Bi_Sales_Dashboard
+# PowerBi_Sales_Dashboard
+This is a PowerBi End to End Project.
+MADHAV E-COMMERCE SALES DASHBOARD
