@@ -1,3 +1,4 @@
-# PowerBi_Sales_Dashboard
-This is a PowerBi End to End Project.
-(MADHAV E-COMMERCE SALES DASHBOARD)
+
+# 📊 Sales Performance Dashboard – Power BI
+
+## This repository contains an interactive Power BI dashboard that visualizes key sales metrics to support business decision-making and performance tracking.
