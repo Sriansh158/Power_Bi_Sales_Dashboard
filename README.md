@@ -11,6 +11,7 @@
 ➡ User-friendly and visually clear layout
 ## Dashboard
 <img width="1322" height="737" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/941c6e30-d9df-48db-b2e4-4d29e5647ba0" />
+
 ## Project Insights
 • Identified top revenue-generating products
 • Seasonal trends affect sales volume during specific periods.
