@@ -9,3 +9,4 @@
 ➡ Profit and revenue tracking
 ➡ Filters and slicers for dynamic data exploration
 ➡ User-friendly and visually clear layout
+## Dashboard
